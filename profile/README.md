@@ -1,4 +1,5 @@
-## Open Magazine 📖
+![open-magazine logo-2](https://github.com/user-attachments/assets/0cb35e80-1e72-4b46-811c-fece59e27b0c)
+
 
 An open-source magazine for web developers, covering the latest trends, tools, and techniques. 
 Stay current, sharpen your skills, and learn best practices—all from a community-driven, freely accessible resource. 
