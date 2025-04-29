@@ -1,4 +1,5 @@
-![open-magazine logo-2](https://github.com/user-attachments/assets/0cb35e80-1e72-4b46-811c-fece59e27b0c)
+
+![open-mag-full-transparent](https://github.com/user-attachments/assets/16720289-101d-410c-afca-bc31aec239a2)
 
 
 An open-source magazine for web developers, covering the latest trends, tools, and techniques. 
