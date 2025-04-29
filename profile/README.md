@@ -4,7 +4,7 @@
 
 An open-source magazine for web developers, covering the latest trends, tools, and techniques. 
 Stay current, sharpen your skills, and learn best practices—all from a community-driven, freely accessible resource. 
-Read it online or have it shipped to your door at production cost—no markup, just great content.
+Read it online or have it shipped to your door at production cost—no markup, no ads, just great content.
 
 <!--
 
